@@ -3,7 +3,7 @@ cara setupnya buka CMD lalu:
 - git clone https://github.com/ReveeRosemary/musicplayer.git
 - cd musicplayer
 - code .
-- git branch (nama branchnya contoh Halaman_Dahsboard)
+- git branch (nama branchnya contoh Bagian 1)
 - git checkout (nama branch yang tadi)
 - mulai ngoding
 
